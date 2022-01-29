@@ -1,4 +1,4 @@
-# Plan your next trip at [My-Travel-Advisor](my-traveladvisor.netlify.app).
+# Plan your next trip at [My-Travel-Advisor](https://my-traveladvisor.netlify.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
